@@ -33,6 +33,12 @@
 ![GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=DillaEditz&repo=Chuti_Yakshani-MD&theme=radical)  
 
 ---
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/DGXeon?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+
+</details> 
 
 ### 🏆 **GitHub Awards**
 
@@ -40,4 +46,4 @@
 
 ### 🏆 **GitHub Activity**
 
-![GitHub Activity](https://metrics.lecoq.io/DillaEditz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FColombo)
+![GitHub Activity](https://metrics.lecoq.io/DGXeon?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&c)
